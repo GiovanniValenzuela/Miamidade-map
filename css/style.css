@@ -1,3 +1,10 @@
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Helvetica", sans-serif;
+  overflow: hidden;
+}
 :root {
 --blue: #1e90ff
 --heading-size: 2em
@@ -5,13 +12,6 @@
 h2 {
 color: var(--blue);
 }
-body {
-  padding: 0px;
-  margin: 0px;
-  font-family: "Helvetica", sans-serif;
-  overflow: hidden;
-}
-
 #map {
   height: 200px;
   width: 100vw;
