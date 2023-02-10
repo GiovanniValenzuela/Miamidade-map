@@ -1,6 +1,6 @@
 :root {
---aqua: #00FFFF
---heading-size: 2em
+--aqua: #00FFFF;
+--heading-size: 2em;
 }
 h2 {
 color: var(--aqua);
