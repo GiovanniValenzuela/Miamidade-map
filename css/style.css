@@ -1,9 +1,9 @@
 :root {
---blue: #1e90ff
+--aqua: #00FFFF
 --heading-size: 2em
 }
 h2 {
-color: var(--blue);
+color: var(--aqua);
 }
 body {
   padding: 0px;
